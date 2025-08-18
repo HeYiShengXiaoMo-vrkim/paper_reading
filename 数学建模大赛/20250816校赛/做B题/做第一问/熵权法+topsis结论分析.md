@@ -199,18 +199,6 @@ $$r_{ij} = \frac{x_{ij}}{\sqrt{\sum_{i=1}^{m} x_{ij}^2}}$$
 
   
 
-**关键发现**：
-
-1. **城市C优势明显**：三项标准化值均为最低，表明污染物浓度控制最佳
-
-2. **城市A问题突出**：SO₂标准化值最高（0.6876），污染严重
-
-3. **城市B短板明显**：NO₂标准化值最高（0.5744），需重点治理
-
-4. **城市D分化显著**：SO₂表现优异，PM10表现最差
-
-  
-
 ### 4.3 加权标准化详细计算
 
   
@@ -406,6 +394,6 @@ $$C_i = \frac{d_i^-}{d_i^+ + d_i^-}$$
 
 3. **与历史数据对比**：排名趋势与长期空气质量监测结果相符
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc5NTkyMDcsMTA1MDY0NzE5MiwyMD
-QxMDI3MjgwLDE1NTM0ODkzNDhdfQ==
+eyJoaXN0b3J5IjpbMTU5NjU0MTA1OSwxMDUwNjQ3MTkyLDIwND
+EwMjcyODAsMTU1MzQ4OTM0OF19
 -->
