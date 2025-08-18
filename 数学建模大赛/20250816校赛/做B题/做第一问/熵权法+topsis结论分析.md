@@ -252,16 +252,6 @@ $$r_{ij} = \frac{x_{ij}}{\sqrt{\sum_{i=1}^{m} x_{ij}^2}}$$
 
   
 
-#### 4.3.3 加权效果分析
-
-1. **PM10权重效应**：由于PM10权重最高（45.60%），城市D的PM10劣势被显著放大
-
-2. **SO₂区分作用**：城市A与C在SO₂方面的差距被有效体现
-
-3. **NO₂影响相对较小**：由于权重较低，NO₂差异对最终排名影响有限
-
-  
-
 ### 4.4 理想解确定的科学依据
 
   
@@ -416,6 +406,6 @@ $$C_i = \frac{d_i^-}{d_i^+ + d_i^-}$$
 
 3. **与历史数据对比**：排名趋势与长期空气质量监测结果相符
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDY0NzE5MiwyMDQxMDI3MjgwLDE1NT
-M0ODkzNDhdfQ==
+eyJoaXN0b3J5IjpbLTEzMDc5NTkyMDcsMTA1MDY0NzE5MiwyMD
+QxMDI3MjgwLDE1NTM0ODkzNDhdfQ==
 -->
